@@ -6,7 +6,7 @@ ip_add = input("\n\nPlease enter an IP address: ")
 octets = ip_add.split(".")
 
 first_octet_bin = bin(int(octets[0]))
-second_octet_bin = bin(int(octets[1)])
+second_octet_bin = bin(int(octets[1])
 third_octet_bin = bin(int(octets[2]))
 fourth_octet_bin = bin(int(octets[3]))
 
