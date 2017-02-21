@@ -66,7 +66,6 @@ if valid_ip:
 else:
 	sys.exit("\n\nInvalid IP address: {}".format(ip_add))
 
-	
 
 
 
